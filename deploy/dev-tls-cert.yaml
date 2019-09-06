@@ -8,7 +8,7 @@ spec:
   acme:
     config:
     - domains:
-      - training-user-1.training.weave.works
+      - training-user-39.training.weave.works
       http01:
         ingress: ""
         ingressClass: traefik

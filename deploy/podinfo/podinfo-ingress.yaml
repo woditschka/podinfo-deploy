@@ -12,9 +12,9 @@ spec:
   tls:
     - secretName: ingress-certificate
       hosts:
-      - training-user-1.training.weave.works
+      - training-user-39.training.weave.works
   rules:
-  - host: training-user-1.training.weave.works
+  - host: training-user-39.training.weave.works
     http:
       paths:
       - path: /podinfo
