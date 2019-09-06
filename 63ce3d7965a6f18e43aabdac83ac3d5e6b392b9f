@@ -1,0 +1,1 @@
+{"jobID":"344e383c-bedd-9e48-829d-00b49364718e","spec":{"type":"policy","cause":{"Message":"","User":"Bernhard Woditschka \u003cbernhard@woditschka.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"automated":"true"}}}},"result":null}
