@@ -13,7 +13,7 @@ spec:
         ingress: ""
         ingressClass: traefik
   dnsNames:
-  - training-user-1.training.weave.works
+  - training-user-39.training.weave.works
   issuerRef:
     kind: Issuer
     name: letsencrypt-prod
